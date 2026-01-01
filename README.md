@@ -103,4 +103,4 @@ spring.jpa.show-sql=true
 spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.MySQL8Dialect
 
 
-Make sure movies_db exists in MySQL before running the application.
+
